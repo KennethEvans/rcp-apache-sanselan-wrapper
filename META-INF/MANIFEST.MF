@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Sanselan
-Bundle-SymbolicName: net.kenevans.apache.sanselan
+Bundle-SymbolicName: net.kenevans.rcp.apache.sanselan
 Bundle-Version: 0.97
 Bundle-ClassPath: sanselan-0.97-incubator.jar
 Bundle-Vendor: kenevans.net
